@@ -45,6 +45,4 @@ Build a classification model that can predict loan approval status. Special focu
 - Clean, interpretable models with explainable visual evaluation.
 - ROC Curve to assess overall model performance.
 
----
 
-> 📁 This README file was generated for internship documentation and GitHub upload.
